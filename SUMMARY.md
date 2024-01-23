@@ -9,3 +9,7 @@
   * [COMP1531](unsw/comp1531.md)
   * [COMP2511](unsw/comp2511.md)
   * [COMP2521](unsw/comp2521.md)
+* [UMich](umich/README.md)
+  * [EECS281](umich/eecs281/README.md)
+    * [24T1](umich/eecs281/24t1.md)
+    * [23T2](umich/eecs281/23t2.md)
