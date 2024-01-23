@@ -1,5 +1,6 @@
 # Table of contents
 
-* [EECS281](README.md)
-  * [24T1](eecs281/24t1.md)
-  * [23T3](eecs281/23t3.md)
+* [COMP1511](README.md)
+  * [24T1](comp1511/24t1.md)
+* [COMP1521](comp1521/README.md)
+  * [24T1](comp1521/24t1.md)
