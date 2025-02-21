@@ -1,15 +1,4 @@
 # Table of contents
 
-* [UNSW](README.md)
-  * [COMP1511](unsw/comp1511/README.md)
-    * [24T1](unsw/comp1511/24t1.md)
-    * [23T3](unsw/comp1511/23t3.md)
-  * [COMP1521](unsw/comp1521/README.md)
-    * [24T1](unsw/comp1521/24t1.md)
-  * [COMP1531](unsw/comp1531.md)
-  * [COMP2511](unsw/comp2511.md)
-  * [COMP2521](unsw/comp2521.md)
-* [UMich](umich/README.md)
-  * [EECS281](umich/eecs281/README.md)
-    * [24T1](umich/eecs281/24t1.md)
-    * [23T2](umich/eecs281/23t2.md)
+* [vscode-ssh链接](README.md)
+* [ssh-链接学校](ssh-lian-jie-xue-xiao.md)
