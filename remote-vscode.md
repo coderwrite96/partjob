@@ -8,7 +8,7 @@
 
 ## 安装vscode插件
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 配置ssh到学校账户
 
@@ -51,3 +51,10 @@ password: 你的密码
 <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 这样就可以正常使用了
+
+
+
+请左哥喝咖啡～～
+
+<figure><img src=".gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure>
+
