@@ -1,2 +1,17 @@
-# ssh-链接学校
+# 1521-mipsy配置
 
+## 简单的话，直接通过网页运行[https://cgi.cse.unsw.edu.au/\~cs1521/mipsy/](https://cgi.cse.unsw.edu.au/~cs1521/mipsy/)
+
+
+
+## vscode配置插件
+
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+配置下这两个插件，vscode中的mipsy就会有颜色了
+
+然后就可以按照命令运行了
+
+```shell
+mipsy xxxx.s
+```
