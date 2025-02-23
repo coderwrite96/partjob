@@ -15,3 +15,11 @@
 ```shell
 mipsy xxxx.s
 ```
+
+
+
+
+
+请左哥喝咖啡～～
+
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4Dbq0FAHGc0Hx35uaCzB%2Fuploads%2FIFrKTRlHK53DJg3xtUbL%2Fimage.png?alt=media&#x26;token=e75c42b3-1b11-4f63-ab7b-2ef5750f87e6" alt="" width="188"><figcaption></figcaption></figure>
