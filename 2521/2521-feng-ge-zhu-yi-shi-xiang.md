@@ -8,11 +8,11 @@
 
 
 
-{% file src=".gitbook/assets/.clang-format" %}
+{% file src="../.gitbook/assets/.clang-format" %}
 
 将这个文件，放到对应的要提交.c的同一级目录。
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 然后执行命令
 
@@ -26,7 +26,7 @@ clang-format -style=file -i *.c
 
 请左哥喝咖啡～～
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 
 
