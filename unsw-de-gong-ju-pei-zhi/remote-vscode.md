@@ -36,21 +36,25 @@ username: zid
 password: 你的密码
 ```
 
+##
+
 ## 开始使用
 
-点击按钮打开终端
-
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-
-点击按钮打开工作区
+点击按钮打开工作区，会列出文件夹
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-然后就可以看到文件目录了， 然后可以在对应的文件夹，点击右键，创建新文件夹、创建新文件等
+点击之后可以看到文件目录，点击右键，创建新文件夹、创建新文件等操作都在此
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 这样就可以正常使用了
+
+## 建议
+
+z
+
+j
 
 
 
