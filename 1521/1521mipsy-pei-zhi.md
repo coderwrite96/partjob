@@ -6,7 +6,7 @@
 
 ## vscode配置插件
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 配置下这两个插件，vscode中的mipsy就会有颜色了
 
