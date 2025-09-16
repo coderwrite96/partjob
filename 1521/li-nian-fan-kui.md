@@ -1,5 +1,25 @@
 # 历年反馈
 
+
+
+# 25t2
+
+## 都是原题啊
+
+![image-20250916164810326](../.gitbook/assets/li-nian-fan-kui/image-20250916164810326.png)
+
+
+
+![image-20250916164401289](../.gitbook/assets/li-nian-fan-kui/image-20250916164401289.png)
+
+## sc也能过
+
+![image-20250916164722270](../.gitbook/assets/li-nian-fan-kui/image-20250916164722270.png)
+
+
+
+
+
 # 25t1
 
 ## 基本全员通过
