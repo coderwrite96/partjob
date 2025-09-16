@@ -12,3 +12,5 @@
 * [2521](2521/README.md)
   * [2521-风格注意事项](2521/2521-feng-ge-zhu-yi-shi-xiang.md)
   * [历年反馈](2521/li-nian-fan-kui.md)
+* [2511](2511/README.md)
+  * [环境配置](2511/huan-jing-pei-zhi.md)
