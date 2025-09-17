@@ -1,10 +1,8 @@
 # 历年反馈
 
-## 历年反馈
+## 25t2
 
-## 25t2 反馈
-
-### 同学上了90分～
+同学上了90分～
 
 ![image-20250916154100862](../.gitbook/assets/li-nian-fan-kui/image-20250916154100862.png)
 
@@ -17,6 +15,10 @@
 {% embed url="https://www.bilibili.com/video/BV17wpszBE4C/" %}
 
 
+
+## 上课记录
+
+![image-20250917170445815](../.gitbook/assets/li-nian-fan-kui/image-20250917170445815.png)
 
 ## 25t1
 
