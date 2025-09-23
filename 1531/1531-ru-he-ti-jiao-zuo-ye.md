@@ -1,41 +1,63 @@
 # 1531如何提交作业
 
-这门课需要使用git来提交作业，虽然老师在第一周的时候介绍了git，但是还是有很多小伙伴并不知道怎么用，以及要学会哪些指令。其实并不需要那么多，只需要掌握几个关键的步骤就可以了。以后需要更多的git功能的时候，在了解学习即可。
+## 配置ssh
+1. 使用`cat ~/.ssh/id_ed25519.pub`查看公钥
+2. 如果没有公钥，类似下面的输出是没有公钥的情况：
+```
+$ cat ~/.ssh/id_ed25519.pub
+cat: /import/ravel/5/z5313514/.ssh/id_ed25519.pub: No such file or directory
+```
+使用`ssh-keygen -t ed25519`生成公钥，然后一路回车。提示然后跳到下一步
+```
+$ ssh-keygen -t ed25519
+Generating public/private ed25519 key pair.
+Enter file їn which to save the key (/import/ravel/5/z5555555/.ssh/id_ed25519):
+Created directory ′/import/ravel/5/z5555555/.ssh′.
+Enter passphrase (empty foṟ no passphrase):
+Enter same passphrase again:
+Your identification has been saved їn /import/ravel/5/z5555555/.ssh/id_ed25519.
+Your public key has been saved їn /import/ravel/5/z5555555/.ssh/id_ed25519.pub.
+The key fingerprint is:
+cf:16:45:51:3f:7a:db:a0:71:7d:1c:d9:1a:95:1e:01 z5555555@weaver
+The key′s randomart image is:
++--[ED25519 256]--+
+| H A . D .E . G. |
+| R   Y..  . N  I |
+| . A .. .  +.+ U |
+|+ . .  . +.o. L .|
+|.X + .. S o B  I |
+|O = + N  .. .A N.|
+| B o    I .   A  |
+|* ...o . o .T  . |
+|.o.o+..  o   A M |
++----[SHA256]-----+
+```
 
-## 配置
+3. 添加公钥到gitlab
+执行`cat ~/.ssh/id_ed25519.pub`到剪贴板，然后在gitlab的settings->ssh keys中添加公钥。
+https://nw-syd-gitlab.cseunsw.tech/-/user_settings/ssh_keys
 
-### 本机配置vscode开发
 
-这门课建议使用vscode，如果你是想用本机vscode链接到学校远程服务器的话，可以参考这个网站。
+## 个人作业提交 6 步 提交
+1. git clone INSERT_LAB_SSH_URL
+2. cd lab0X_example
+3. Make changes to the relevant files
+4. git add FILE1 FILE2 ...
+5. git commit -m "A relevant message for the change"
+6. git push
 
-### 配置ssh
 
-## 个人lab如何提交
+## 小组作业 8 步提交
+1. git checkout master (切换到主分支)
+2. git pull (在创建新分支前获取团队成员的最新更改)
+3. git checkout -b FEATURE_BRANCH (从主分支创建并切换到新的功能分支)
+4. 对相关文件进行修改并保存
+5. git add FILE1 FILE2 ... (添加修改的文件到暂存区)
+6. git commit -m "相关的更改说明" (提交更改)
+7. git push -u origin FEATURE_BRANCH (首次推送需要创建远程分支，之后只需要使用git push)
+8. 刷新GitLab页面并确认本地的FEATURE_BRANCH分支已同步到GitLab上的FEATURE_BRANCH分支
+9. 把merge request发送给其他小伙伴，让他们进行review然后approve，最后merge到master分支
 
-## 改量比较少
 
-如果修改量比较少的话，比如修改下格式、变量名等，就是这次修改基本不会带来很大的修改。可以直接在网页上直接修改，这样比较省事。
-
-点击Edit
-
-![image-20250204232835738](file:///Users/jackymxp/Desktop/partjob/unsw/comp1531/assets/image-20250204232835738.png?lastModify=1740151364)
-
-![image-20250204232942918](file:///Users/jackymxp/Desktop/partjob/unsw/comp1531/assets/image-20250204232942918.png?lastModify=1740151364)
-
-当写完分支名字之后，点击回车之后，右下角会有
-
-![image-20250204233034073](file:///Users/jackymxp/Desktop/partjob/unsw/comp1531/assets/image-20250204233034073.png?lastModify=1740151364)
-
-点击create MR，就会跳转到如下界面
-
-![image-20250204233226820](file:///Users/jackymxp/Desktop/partjob/unsw/comp1531/assets/image-20250204233226820.png?lastModify=1740151364)
-
-![image-20250204233305604](file:///Users/jackymxp/Desktop/partjob/unsw/comp1531/assets/image-20250204233305604.png?lastModify=1740151364)
-
-确认下修改是否生效
-
-![image-20250204233442685](file:///Users/jackymxp/Desktop/partjob/unsw/comp1531/assets/image-20250204233442685.png?lastModify=1740151364)
-
-## 小组作业
-
-\
+# 一些关于git的资料
+https://git-scm.com/book/zh/v2
