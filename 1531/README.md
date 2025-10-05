@@ -1,33 +1,5 @@
 # 1531
 
-{% stepper %}
-{% step %}
-###
+# 最新公开课
 
-
-{% endstep %}
-
-{% step %}
-###
-{% endstep %}
-
-{% step %}
-
-
-
-
-
-
-<img alt="" class="gitbook-drawing">
-
-
-
-
-
-
-
-
-
-
-{% endstep %}
-{% endstepper %}
+https://meeting.tencent.com/crm/Nbpg1eOZed
