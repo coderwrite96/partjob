@@ -15,7 +15,7 @@
 
 ## 区分思路
 
-<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/2521-w3-sort.excalidraw.svg" alt="" class="gitbook-drawing">
 
 
 
