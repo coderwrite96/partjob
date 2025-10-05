@@ -2,4 +2,6 @@
 
 # 最新公开课
 
-https://meeting.tencent.com/crm/N8J0nv417c
+## [mipsy的入门第一课](https://meeting.tencent.com/crm/N8J0nv417c)
+
+
