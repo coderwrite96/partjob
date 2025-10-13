@@ -153,5 +153,5 @@ comp1511
 
 *感谢使用本指南！如果觉得有帮助，欢迎请左哥喝咖啡～*
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wechat-luck-packet.png" alt="" width="188"><figcaption></figcaption></figure>
 

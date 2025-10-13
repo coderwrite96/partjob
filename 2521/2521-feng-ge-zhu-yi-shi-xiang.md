@@ -63,7 +63,7 @@ your_assignment/
 
 *希望这个指南对您的学习有所帮助！如果觉得有用，欢迎请左哥喝咖啡～*
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wechat-luck-packet.png" alt="" width="188"><figcaption></figcaption></figure>
 
 
 
