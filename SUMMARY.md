@@ -15,3 +15,4 @@
   * [w3-sort笔记](2521/w3sort-bi-ji.md)
 * [2511](2511/README.md)
   * [环境配置](2511/huan-jing-pei-zhi.md)
+  * [UML图自动生成](2511/uml-tu-zi-dong-sheng-cheng.md)
