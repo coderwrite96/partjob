@@ -1,5 +1,11 @@
 # 历年反馈
 
+## 26T0
+
+l
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ## 25t2
 
 同学上了90分～
@@ -13,8 +19,6 @@
 ### sc原题视频链接
 
 {% embed url="https://www.bilibili.com/video/BV17wpszBE4C/" %}
-
-
 
 ## 上课记录
 
@@ -41,8 +45,6 @@
 ### 有幸讲解到原题
 
 {% embed url="https://www.bilibili.com/video/BV12FfhYnECy/" %}
-
-
 
 ![image-20250215084321949](../.gitbook/assets/li-nian-fan-kui/image-20250215084321949.png)
 
