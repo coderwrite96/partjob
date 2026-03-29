@@ -2,17 +2,17 @@
 
 本指南将帮助您配置 VS Code 远程连接到 UNSW 的服务器，实现在本地编辑器中直接操作远程文件。
 
-## 第一步：下载与安装 VS Code
+## 下载与安装 VS Code
 
 请访问 VS Code 官网下载并安装最新版本：
 
 {% embed url="https://code.visualstudio.com/" %}
 
-## 第二步：安装 Remote-SSH 插件
+## 安装 Remote-SSH 插件
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-## 第三步：配置 SSH 连接到学校账户
+## 配置 SSH 连接到学校账户
 
 安装完 Remote-SSH 插件后，您会在 VS Code 左侧活动栏看到远程资源管理器图标
 
@@ -21,6 +21,8 @@
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 点击远程资源管理器图标，然后开始配置连接信息
+
+⚠️**可以先划到最后，看下是否save的按钮变成了灰色，如果是的话，退出当前界面，再重新进入一次**
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
