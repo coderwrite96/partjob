@@ -16,3 +16,6 @@
 * [2511](2511/README.md)
   * [环境配置](2511/huan-jing-pei-zhi.md)
   * [UML图自动生成](2511/uml-tu-zi-dong-sheng-cheng.md)
+* [2041](2041/README.md)
+  * [shell风格自动化](2041/shell-feng-ge-zi-dong-hua.md)
+  * [lab05 gitlab操作](2041/lab05-gitlab-cao-zuo.md)
